@@ -1,0 +1,19 @@
+F:\File Calculator\File Calculator\bin\Debug\File Calculator.exe.config
+F:\File Calculator\File Calculator\bin\Debug\File Calculator.exe
+F:\File Calculator\File Calculator\bin\Debug\File Calculator.pdb
+F:\File Calculator\File Calculator\obj\Debug\File Calculator.csprojResolveAssemblyReference.cache
+F:\File Calculator\File Calculator\obj\Debug\File_Calculator.Form1.resources
+F:\File Calculator\File Calculator\obj\Debug\File_Calculator.Properties.Resources.resources
+F:\File Calculator\File Calculator\obj\Debug\File Calculator.csproj.GenerateResource.Cache
+F:\File Calculator\File Calculator\obj\Debug\File Calculator.exe
+F:\File Calculator\File Calculator\obj\Debug\File Calculator.pdb
+E:\File Calculator\File Calculator\bin\Debug\File Calculator.exe.config
+E:\File Calculator\File Calculator\bin\Debug\File Calculator.exe
+E:\File Calculator\File Calculator\bin\Debug\File Calculator.pdb
+E:\File Calculator\File Calculator\obj\Debug\File Calculator.csprojAssemblyReference.cache
+E:\File Calculator\File Calculator\obj\Debug\File_Calculator.Form1.resources
+E:\File Calculator\File Calculator\obj\Debug\File_Calculator.Properties.Resources.resources
+E:\File Calculator\File Calculator\obj\Debug\File Calculator.csproj.GenerateResource.cache
+E:\File Calculator\File Calculator\obj\Debug\File Calculator.csproj.CoreCompileInputs.cache
+E:\File Calculator\File Calculator\obj\Debug\File Calculator.exe
+E:\File Calculator\File Calculator\obj\Debug\File Calculator.pdb

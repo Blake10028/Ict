@@ -1,0 +1,10 @@
+F:\TimeTable\TimeTable\obj\Debug\TimeTable.csprojAssemblyReference.cache
+F:\TimeTable\TimeTable\obj\Debug\TimeTable.Form1.resources
+F:\TimeTable\TimeTable\obj\Debug\TimeTable.Properties.Resources.resources
+F:\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.GenerateResource.cache
+F:\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.CoreCompileInputs.cache
+F:\TimeTable\TimeTable\bin\Debug\TimeTable.exe.config
+F:\TimeTable\TimeTable\bin\Debug\TimeTable.exe
+F:\TimeTable\TimeTable\bin\Debug\TimeTable.pdb
+F:\TimeTable\TimeTable\obj\Debug\TimeTable.exe
+F:\TimeTable\TimeTable\obj\Debug\TimeTable.pdb
