@@ -1,0 +1,27 @@
+D:\CJTrainingAssessment\CJTrainingAssessment\bin\Debug\CJTrainingAssessment.exe.config
+D:\CJTrainingAssessment\CJTrainingAssessment\bin\Debug\CJTrainingAssessment.exe
+D:\CJTrainingAssessment\CJTrainingAssessment\bin\Debug\CJTrainingAssessment.pdb
+D:\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.csprojResolveAssemblyReference.cache
+D:\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.Form1.resources
+D:\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.Properties.Resources.resources
+D:\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.csproj.GenerateResource.Cache
+D:\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.exe
+D:\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.pdb
+F:\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.exe
+F:\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.pdb
+F:\CJTrainingAssessment\CJTrainingAssessment\bin\Debug\CJTrainingAssessment.exe
+F:\CJTrainingAssessment\CJTrainingAssessment\bin\Debug\CJTrainingAssessment.pdb
+F:\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.csprojResolveAssemblyReference.cache
+F:\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.Form1.resources
+F:\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.Properties.Resources.resources
+F:\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.csproj.GenerateResource.Cache
+F:\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.CJTrainingEdit.resources
+I:\usb files\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.exe
+I:\usb files\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.pdb
+I:\usb files\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.csprojResolveAssemblyReference.cache
+I:\usb files\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.CJTrainingEdit.resources
+I:\usb files\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.Form1.resources
+I:\usb files\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.Properties.Resources.resources
+I:\usb files\CJTrainingAssessment\CJTrainingAssessment\obj\Debug\CJTrainingAssessment.csproj.GenerateResource.Cache
+I:\usb files\CJTrainingAssessment\CJTrainingAssessment\bin\Debug\CJTrainingAssessment.exe
+I:\usb files\CJTrainingAssessment\CJTrainingAssessment\bin\Debug\CJTrainingAssessment.pdb

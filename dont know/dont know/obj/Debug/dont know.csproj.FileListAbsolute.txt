@@ -1,0 +1,10 @@
+F:\dont know\dont know\bin\Debug\dont know.exe.config
+F:\dont know\dont know\bin\Debug\dont know.exe
+F:\dont know\dont know\bin\Debug\dont know.pdb
+F:\dont know\dont know\obj\Debug\dont_know.Form1.resources
+F:\dont know\dont know\obj\Debug\dont_know.Properties.Resources.resources
+F:\dont know\dont know\obj\Debug\dont know.csproj.GenerateResource.Cache
+F:\dont know\dont know\obj\Debug\dont know.exe
+F:\dont know\dont know\obj\Debug\dont know.pdb
+F:\dont know\dont know\obj\Debug\dont know.csprojResolveAssemblyReference.cache
+F:\dont know\dont know\obj\Debug\dont_know.Form2.resources

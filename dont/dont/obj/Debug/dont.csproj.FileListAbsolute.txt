@@ -1,0 +1,10 @@
+F:\dont\dont\bin\Debug\dont.exe.config
+F:\dont\dont\obj\Debug\dont.csprojResolveAssemblyReference.cache
+F:\dont\dont\obj\Debug\dont.Form1.resources
+F:\dont\dont\obj\Debug\dont.Properties.Resources.resources
+F:\dont\dont\obj\Debug\dont.csproj.GenerateResource.Cache
+F:\dont\dont\bin\Debug\dont.exe
+F:\dont\dont\bin\Debug\dont.pdb
+F:\dont\dont\obj\Debug\dont.exe
+F:\dont\dont\obj\Debug\dont.pdb
+F:\dont\dont\obj\Debug\dont.Form2.resources
