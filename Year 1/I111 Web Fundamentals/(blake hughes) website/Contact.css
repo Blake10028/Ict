@@ -1,0 +1,81 @@
+/* the page look font and background color*/
+body { 
+margin: 0;
+background: #000000;
+font-famil: 'Work Sans', Sans-serif;
+font-weight: 300;
+color: white;
+
+}
+/* the logo and wed links */
+.container {
+width: 80%;
+margin: 0 auto;
+}
+/* the background color of the header */
+header {
+ background-image: linear-gradient(green, black)
+}
+/* header */
+header::after {
+content: '';
+display: table;
+clear: both;
+}
+  /* where the logo is on the header */ 
+.logo {
+float: left;
+}
+/* make the web links go on right of the header */
+nav {
+float: right;
+}
+
+nav ul {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+/* make the web links white */
+nav ul li a{
+color: white;
+
+}
+/* the look of the weblinks */
+nav li {
+display: inline-block; 
+margin-left: 70px;
+padding-top: 25px;
+font-size: 26px;
+}
+/* layout and look of the form the user fills out*/
+form{
+font-size: 16px;
+max-width: 800px;
+height: 500px;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+border: 5px solid green;
+border-radius: 100px;
+padding: 20px;
+color: white;
+background: black;
+margin: auto;
+}
+/* commment box user types*/
+textarea{
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+width:100%;
+height: 200px;
+}
+/* make text in the center of the page */
+h3{
+text-align: center;
+}
+/* make moblie north in the center of the page */
+h1{
+text-align: center;
+}
+
+
+
+

@@ -1,0 +1,52 @@
+/*grid layout eg size and colour*/
+.grid-container {
+    display: grid;
+    grid-template-columns: 600px;
+    background-color: white;
+    padding: 10px;
+}
+/*grid border*/
+.grid-item {
+    border: 1px solid rgba(0, 0, 0, 0.8);
+}
+
+/*all below are item inside grid and how that will be placed in the grid*/
+#p1 {
+    text-align: left;
+    display: inline-block;
+}
+
+#p2 {
+    text-align: left;
+    display: inline-block;
+}
+
+#p3 {
+    text-align: left;
+    display: inline-block;
+}
+
+#p6 {
+    display: inline-block;
+}
+
+#Convert {
+    background-color: cornflowerblue;
+}
+
+
+.currency {
+    display: inline-block;
+}
+
+#p4 {
+    display: inline-block;
+}
+
+#p5 {
+    display: inline-block;
+}
+
+#rate {
+    display: inline-block;
+}
