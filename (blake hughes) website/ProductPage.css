@@ -1,0 +1,144 @@
+/* the page look font and background color*/
+body { 
+margin: 0;
+background: #000000;
+font-family: 'Work Sans', Sans-serif;
+font-weight: 300;
+color: white;
+}
+
+/* the logo and wed links */
+.container {
+width: 80%;
+margin: 0 auto;
+}
+
+/* the background color of the header */
+header {
+ background-image: linear-gradient(green, black)
+}
+
+/* header */
+header::after {
+content: '';
+display: table;
+clear: both;
+}
+
+/* where the logo is on the header */
+.logo {
+float: left;
+}
+
+/* make the web links go on right of the header */
+nav {
+float: right;
+}
+
+
+nav ul {
+margin: 0;
+padding: 0;
+list-style: none;
+
+}
+
+/* make the web links white */
+nav ul li a{
+color: white;
+
+}
+
+/* the look of the weblinks */
+nav li {
+display: inline-block; 
+margin-left: 70px;
+padding-top: 25px;
+font-size: 26px;
+}
+
+/* make moblie north in the center of the page */
+h1 {
+text-align: center;
+}
+
+/* how all the item look on the website */
+.card {
+position:relative;
+width: 300px;
+border: 1px soild green;
+border-radius: 7px;
+overflow: auto;
+float: left;
+margin-left: 10px;
+box-shadow: 5px 5px 5px #009600;
+}
+
+
+.card-title{
+padding: 5px;
+}
+
+
+.card-inner{
+width: 200px;
+height:200;
+background: black;
+}
+
+
+.card img{
+width: 100%;
+height: 100%;
+}
+
+
+.card-footer{
+padding: 5px;
+border-top: 1px soild green;
+overflow:auto;
+}
+
+
+.card-footer a{
+text-decoration: none;
+}
+
+
+.card-footer a.add{
+float: left;
+}
+
+
+.card-footer span.price{
+float: right;
+}
+
+/*grid layout and look */
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: black;
+  padding: 10px;
+}
+/*grid layout and look */
+.grid-item {
+  background-color: black(255, 255, 255, 0.8);
+  border: 1px solid black(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  margin: auto;
+}
+/* the totel color*/
+#grandtotal{
+color:red;
+}
+/* the cart place*/
+#cart{
+float: left;
+margin-left: 20px;
+top: 10px;
+right: 20px;
+color: white;
+}
